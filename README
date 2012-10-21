@@ -1,24 +1,29 @@
+Hunspell spellchecker for galician (strict Volga)
+and the coordination of Antón Méixome for Proxecto Trasno
 
-Dicionario hunspell-gl para galego baseado no Volga
-e coordinado por Proxecto Trasno (www.trasno.net)
+Corrector ortográfico hunspell-gl para galego (Volga estrito)
+e coordinado por Antón Méixome para Proxecto Trasno (www.trasno.net)
 
-Hunspell spellchecker for galician with base on Volga
-and the coordination of Proxecto Trasno
+Version 12.10 "Manuel Pintos"
+(http://gl.wikipedia.org/wiki/Xoán_Manuel_Pintos_Villar)
+
+Nota.
+
+Ao longo do tempo teñen parte ou colaboraron na creación e mantemento deste recurso lingüístico e dos seus produtos derivados moitas persoas entre as que se deben salientar:
+
+- Imaxin Software para Mancomún (primeira compilación de regras e lista de dicionario). 2006
+- Mancomún (Mar Castro, ficheiro de regras). 2006-2007
+- Proxecto Trasno. (Miguel Solla, ficheiro de regras). 2009
+
+Nas vindeiras versións completarse o rexistro de cambios.
 
 
+Para a creación das regras e o dicionario tívose estritamente en conta
 
+- Vocabulario ortográfico da lingua galega (VOLGa) 
 
-License- (see LEME-gl.txt)
+ Real Academia Galega / Instituto da Lingua Galega, 2004.
+ http://www.realacademiagalega.org/volga/
 
-This program is free software: you can redistribute it and/or modify
-it under the terms of the GNU General Public License as published by
-the Free Software Foundation, either version 3 of the License, or
-(at your option) any later version.
+License GPL - (see License-gl.txt inside)
 
-This program is distributed in the hope that it will be useful,
-but WITHOUT ANY WARRANTY; without even the implied warranty of
-MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
-GNU General Public License for more details.
-
-You should have received a copy of the GNU General Public License
-along with this program. If not, see <http://www.gnu.org/licenses/>.
